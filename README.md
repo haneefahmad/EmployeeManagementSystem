@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🧑‍💼 Employee Management System
 
 A **full-stack Employee Management Application** built using **Spring Boot** (backend) and **React.js** (frontend).  
@@ -149,18 +146,7 @@ employee-management-system/
 
 **Haneef Ahmad**
 Full Stack Developer
-📧 [haneefrko@gmail.com](mailto:haneefrko@gmail.com)
+📧 [haneefrko@gmail.com](mailto:haneefahmad.2004@gmail.com)
 🌐 [GitHub Profile](https://github.com/haneefahmad)
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.
-
----
-
-```
-
-Would you like me to make a version with **GitHub badges** (e.g., build status, license, tools used) for a more polished README appearance?
-```
