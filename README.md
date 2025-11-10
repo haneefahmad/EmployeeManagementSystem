@@ -1,25 +1,25 @@
-# 🧑‍💼 Employee Management System
+# Employee Management System
 
 A **full-stack Employee Management Application** built using **Spring Boot** (backend) and **React.js** (frontend).  
 This system allows HR teams to efficiently manage employee data through a clean, responsive, and user-friendly interface.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔹 Core Functionalities
+### Core Functionalities
 - **Create, Read, Update, Delete (CRUD)** operations for managing employee data.  
 - **RESTful APIs** for seamless communication between backend and frontend.  
 - **Persistent storage** with PostgreSQL database.  
 - **Validation and error handling** for all input fields.  
 
-### 🔹 UI & UX
+### UI & UX
 - **Responsive design** optimized for both desktop and mobile.  
 - **Modern React components** with a modular and maintainable architecture.  
 - **Dynamic data rendering** using React hooks and state management.  
 - **Search and filter** features for quick employee lookup.  
 
-### 🔹 Backend
+### Backend
 - Developed using **Spring Boot** with **Spring Data JPA**.  
 - **REST Controller** layer to handle HTTP requests.  
 - Integrated with **PostgreSQL** for data persistence.  
@@ -28,7 +28,7 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-------------|
@@ -39,9 +39,9 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 🖥️ Backend (Spring Boot)
+### Backend (Spring Boot)
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/employee-management-system.git
@@ -66,7 +66,7 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 ---
 
-### 🌐 Frontend (React.js)
+### Frontend (React.js)
 
 1. Open another terminal and navigate to the frontend folder:
 
@@ -88,7 +88,7 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method   | Endpoint              | Description             |
 | -------- | --------------------- | ----------------------- |
@@ -100,7 +100,7 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 ---
 
-## 🧩 Folder Structure
+## Folder Structure
 
 ```
 employee-management-system/
@@ -124,29 +124,11 @@ employee-management-system/
     └── package.json
 ```
 
----
-
-## 📈 Future Enhancements
-
-* ✅ Authentication & Authorization (JWT)
-* ✅ Role-based Access Control (Admin / HR)
-* ✅ File upload for employee documents
-* ✅ Analytics Dashboard for HR insights
-* ✅ Docker support for containerized deployment
-
----
-
-## 📸 Screenshots
-
-> *Add screenshots here (UI list view, Add Employee form, etc.)*
-
----
-
 ## 👨‍💻 Author
 
 **Haneef Ahmad**
 Full Stack Developer
-📧 [haneefrko@gmail.com](mailto:haneefahmad.2004@gmail.com)
+📧 [haneefahmad.2004@gmail.com]
 🌐 [GitHub Profile](https://github.com/haneefahmad)
 
 ---
