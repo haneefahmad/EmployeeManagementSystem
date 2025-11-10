@@ -32,10 +32,10 @@ This system allows HR teams to efficiently manage employee data through a clean,
 
 | Layer | Technology |
 |-------|-------------|
-| **Frontend** | React.js, Axios, React Router, Bootstrap / Tailwind CSS |
+| **Frontend** | React.js, Axios, React Router, Bootstrap |
 | **Backend** | Spring Boot, Spring Web, Spring Data JPA |
 | **Database** | PostgreSQL |
-| **Tools** | Git, Maven, npm, VS Code, IntelliJ IDEA / Eclipse |
+| **Tools** | Git, Maven, npm, VS Code, IntelliJ IDEA |
 
 ---
 
